@@ -1,0 +1,31 @@
+{
+  "PROFILE": [
+    {
+      "NAME": "Александр",
+      "SURNAME": "Кленин",
+      "PATRONYMIC": "Сергеевич",
+      "TYPE": "Администратор",
+      "EMAIL": "klenin@gmail.com",
+      "POSITION": "Бог",
+      "PHONE": "880090055355"
+    },
+    {
+      "NAME": "Надежда",
+      "SURNAME": "Кленина",
+      "PATRONYMIC": "Викторовна",
+      "TYPE": "Сотрудник",
+      "EMAIL": "klenina@gmail.com",
+      "POSITION": "Осенизатор",
+      "PHONE": "880090055355"
+    },
+    {
+      "NAME": "Достовалов",
+      "SURNAME": "Валерий",
+      "PATRONYMIC": "Николаевич",
+      "TYPE": "Сотрудник",
+      "EMAIL": "dostovalov@gmail.com",
+      "POSITION": "Младший осенизатор",
+      "PHONE": "880090055355"
+    }
+  ]
+}
